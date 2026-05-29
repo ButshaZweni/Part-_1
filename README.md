@@ -82,4 +82,9 @@ Sitemap — Kizuna Alliance Website
         ◦ Payment or pledge options
 
 
-NOTE:Part 1 Details (Part 2 and Part 3 will follow in future submissions/edits)
+Part 2 : added css for styling and make the website visually applealing. add more pics in about us
+
+
+
+NOTE:Part 1 Details (Part 3 will follow in future submissions/edits)
+
